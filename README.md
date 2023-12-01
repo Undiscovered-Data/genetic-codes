@@ -1,6 +1,6 @@
 # genetic-codes
 This allows you to transform genetic codes into their polypeptides
-It includes code
+It includes code for
 
     1. The Standard Code
     2. The Vertebrate Mitochondrial Code
